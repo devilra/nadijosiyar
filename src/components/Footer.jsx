@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Left - Copyright */}
         <p className="text-sm">
           © {new Date().getFullYear()} nadisaptarishi.com. All rights reserved.{" "}
-          <span className="text-[15px]">Amigowebster</span>
+          <span className="text-[15px]">Develop by Amigowebster</span>
         </p>
 
         {/* Center - Links */}
