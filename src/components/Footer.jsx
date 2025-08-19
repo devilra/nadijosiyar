@@ -8,7 +8,6 @@ const Footer = () => {
         {/* Left - Copyright */}
         <p className="text-sm">
           © {new Date().getFullYear()} nadisaptarishi.com. All rights reserved.{" "}
-          <span className="text-[15px]">Develop by Amigowebster</span>
         </p>
 
         {/* Center - Links */}
@@ -54,6 +53,9 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <h1 className="text-[13px] text-center py-3 px-2">
+        Develop by <span className="font-bold">Amigowebster</span>
+      </h1>
     </footer>
   );
 };
