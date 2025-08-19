@@ -7,7 +7,8 @@ const Footer = () => {
       <div className="max-w-[1200px] mx-auto px-5 flex flex-col md:flex-row items-center justify-between gap-4">
         {/* Left - Copyright */}
         <p className="text-sm">
-          © {new Date().getFullYear()} nadisaptarishi.com. All rights reserved.
+          © {new Date().getFullYear()} nadisaptarishi.com. All rights reserved.{" "}
+          <span className="text-[15px]">Amigowebster</span>
         </p>
 
         {/* Center - Links */}
