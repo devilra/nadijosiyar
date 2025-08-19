@@ -13,4 +13,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 development uri
 
-https://nadi-bo4hwzpai-devilras-projects.vercel.app/
+https://nadi-git-dev-devilras-projects.vercel.app/
