@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
       </div>
       <h1 className="text-[13px] text-center py-3 px-2">
-        Develop by <span className="font-bold">amigo webster</span>
+        Developed by <span className="font-bold">amigowebster</span>
       </h1>
     </footer>
   );
