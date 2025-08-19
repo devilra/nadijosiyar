@@ -139,7 +139,7 @@ const HomeHero = () => {
         {/* Left - Image */}
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-            src="/hero/h1.jpeg" // change your image path
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8R3e5NtyjQCbCm5bF8Z2TDVYhfFBcAQIK4A&s"
             alt="Astrologer"
             className="rounded-lg shadow-lg w-full md:w-[90%] h-[300px] md:h-[400px] object-cover object-center"
           />
@@ -177,7 +177,7 @@ const HomeHero = () => {
         {/* Left - Image */}
         <div className="w-full md:order-2 md:w-1/2 flex justify-center">
           <img
-            src="/hero/h3.jpg" // change your image path
+            src="https://astroera.in/public/cms-images/blogs/1997004197_Best-online-astrology-service-Chat-With-Astroera.jpg"
             alt="Astrologer"
             className="rounded-lg shadow-lg w-full md:w-[90%] h-[300px] md:h-[400px] object-cover object-center"
           />
@@ -216,7 +216,7 @@ const HomeHero = () => {
         {/* Left - Image */}
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-            src="/hero/h4.jpg" // change your image path
+            src="https://d2vlk40wphb5v6.cloudfront.net/public/cms-images/blogs/1599544609_What-are-the-benefits-of-astrology-services-1.webp"
             alt="Astrologer"
             className="rounded-lg shadow-lg w-full md:w-[90%] h-[300px] md:h-[400px] object-cover object-center"
           />
