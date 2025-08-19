@@ -92,9 +92,9 @@ const HomeHero = () => {
         <Slider {...settings}>
           <div className="relative">
             <img
-              //src="https://www.nadiastrologyonline.com/img/sugar-nadi-jothidam.jpg"
+              src="/hero/h1.jpg"
               alt="slide1"
-              className="w-full h-[400px] md:h-[500px] md:w-[1000px] md:object-rig object-cover"
+              className="w-full h-[400px] md:h-[500px] object-cover"
             />
             <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col justify-center items-center text-center text-white p-6">
               <h2 className="text-lg md:text-3xl font-bold">
@@ -107,7 +107,7 @@ const HomeHero = () => {
           </div>
           <div className="relative">
             <img
-              //src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8sNNBv5Ni1uuFvJHo5sP4_uttReHFutJxWBr3PcLPMdxcgM_mVVAwIP6JkiNtVjKoMU&usqp=CAU"
+              src="/hero/h2.jpg"
               alt="slide2"
               className="w-full h-[400px] md:h-[500px] object-cover"
             />
